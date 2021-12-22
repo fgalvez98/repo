@@ -1,3 +1,4 @@
+"line": "AWS_KEY = \\\"AKIALALEMEL33243OLIAE\\\"\"",
 "lineNumber": 1,
 "offender": "AKIALALEMEL33243OLIA",
 "offenderEntropy": -1,
